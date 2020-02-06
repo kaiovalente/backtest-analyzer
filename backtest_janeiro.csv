@@ -1,4 +1,4 @@
-Ativo;Dia;Abertura;Fechamento;Tempo Operação;Qtd;Lado;Preço Compra;Preço Venda;Resultado Financeiro;Resultado Pontos;Total Acumulado;Acumlado Dia
+Ativo;Dia;Abertura;Fechamento;Tempo OperaÃ§Ã£o;Qtd;Lado;PreÃ§o Compra;PreÃ§o Venda;Resultado Financeiro;Resultado Pontos;Total Acumulado;Acumulado Dia
 WING20;02/01/2020;02/01/2020 09:35;02/01/2020 09:59;23min47s;1;C;117.095,00;116.990,00;-21;-105;-21;-105
 WING20;02/01/2020;02/01/2020 10:07;02/01/2020 10:12;4min57s;1;C;117.070,00;117.075,00;1;5;-20;-100
 WING20;02/01/2020;02/01/2020 10:17;02/01/2020 10:22;5min27s;1;C;116.990,00;117.050,00;12;60;-8;-40
